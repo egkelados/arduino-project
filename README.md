@@ -7,4 +7,5 @@ Code and information for arduino car with sernsor controlled by bluetooth.
 
 ## Code
 -With the help of app the car can go in every direction and also you can modify the speed.
+
 -With the sensor the car avoid frontal collision. 
